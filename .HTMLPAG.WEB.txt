@@ -1,0 +1,167 @@
+<html>
+<head>
+<title> Práctica en HTML </title>
+</head>
+<body bg color="#fdedec"leftmargin="40"topmargin="40"marginwidth="40"marginheigth="48">
+<img src= "logoepo60.jpg"width="100" height="80">
+<center><h2> "2025.  </h2></center>
+
+<hr>
+<center><h1> Y colorin colorado este cuento aun no ha terminado </h1></center>
+<h2> Datos del Autor </h2>
+<p>Dante Humberto Jorge Iván Odin Dupeyron Navarrete, nació en la Ciudad de México en 1970. Artista multitalento destacado como poeta, dramaturgo, actor y director de teatro. En todas sus expresiones defiende el pensamiento crítico y combate el exceso de pensamiento mágico.
+<center><img src= "PELON.jpg"width="200" height="150"> </center>
+<br>
+<nav id="menus">
+<ul> <style="list-style: none; display: flex; gap: 10px;">
+<li>
+<h3><a href="#cap1"> Capitulo 1 </a><h3>
+</li>
+<li>
+<h3><a href="#cap2"> Capitulo 2 </a><h3>
+</li>
+<li>
+<h3><a href="#cap3"> Capitulo 3 </a><h3>
+</li>
+<li>
+<h3><a href="#cap4"> Capitulo 4 </a><h3>
+</li>
+</ul>
+</nav>
+
+<hr align="left" width="1450" size="12" noshade>
+<a name="Capitulo 1"/>
+<center>
+<font face="Bell MT" size="8" color="#ba28e5"> La puerta y el dragón del miedo </font>
+</center>
+<p>En este capítulo, la princesa Odái rompe con el guión previsto: enfrenta al dragón que la custodia y reclama su derecho a vivir más allá del castillo. Descubre que el dragón no bloquea el camino por fuera, sino que es su propio miedo convertido en guardián.</p>
+<p>El gran aprendizaje: el miedo no es enemigo, sino espejo de nuestras inseguridades; reconociéndolo, podemos dejar de obedecerlo.</p>
+<center><img src= "IMG 1.jpeg"width="180" height="200"> </center>
+<br>
+<p> A veces creemos que los obstáculos están fuera de nosotros, pero en realidad son nuestros propios miedos disfrazados. Cuando los enfrentamos con honestidad, descubrimos que no venían a detenernos, sino a mostrarnos en qué parte de nosotros aún falta valor. </p>
+<center><img src= "Foto 1.jpg"width="180" height="200"> </center>
+
+
+<hr align="left" width="1450" size="12" noshade>
+<a name="Capitulo 2"/>
+<center>
+<font face="Bell MT" size="8" color="#ba28e5"> El abejorro de la curiosidad </font>
+</center>
+<p>
+<p> Mientras intentan salir, un abejorro –símbolo de curiosidad y deseo– pica ligeramente a Odái. Susurra: “la vida se debe vivir desafiando lo desconocido”</p>
+<p> Ese pequeño aguijón transforma su temor y la impulsa a cruzar sin llave ni guía. La lección: muchas veces basta un pequeño empujón de deseo para vencer grandes miedos.</p>
+<center><img src= "----------.jpeg"width="180" height="190"> </center>
+<br>
+<p> La curiosidad es una chispa que enciende el coraje. Incluso un impulso pequeño —una idea, una emoción, una voz interior— puede ser suficiente para atrevernos a dar el primer paso, aunque no sepamos a dónde nos llevará. </p>
+<center><img src= "Foto 2.jpg"width="200" height="170"> </center>
+
+
+<hr align="left" width="1450" size="12" noshade>
+<a name="Capitulo 3"/>
+<center>
+<font face="Bell MT" size="8" color="#ba28e5"> El hombre más rico y la tortuga de la prudencia </font>
+</center>
+<p> Tras la cueva, conocen al “hombre más rico del mundo”: un personaje humilde que les enseña que la verdadera riqueza reside en la experiencia y la actitud. </p>
+<p> Más adelante, la tortuga Prudencia les advierte sobre decisiones apresuradas en el amor, recordando que no basta con emociones, hay que pensar a futuro   . Entonces Odái internaliza que crecer requiere tanto pasión como sabiduría.</p>
+<center><img src= "-----------.jpeg"width="170" height="190"> </center>
+<br>
+<p> La verdadera riqueza no es lo que se posee, sino lo que se comprende y se vive con sentido. Amar y decidir no solo requiere sentir, sino también pensar con claridad: el equilibrio entre corazón y cabeza es parte del crecimiento real. </p>
+<center><img src= "Foto 3.jpg"width="200" height="170"> </center>
+<br>
+<center>
+<a href= "-----------.html"> Texto para dar clic </a>
+</center>
+
+
+<hr align="left" width="1450" size="12" noshade>
+<a name="Capitulo 4"/>
+<center>
+<font face="Bell MT" size="8" color="#ba28e5"> La vidente y la certeza de la muerte </font>
+</center>
+<p> En el tramo final, Odái visita a una anciana vidente que le revela su futuro: matrimonio, hijos, alegrías, pérdidas y, sí, también la muerte. </p>
+<p> De esta forma, la vidente le transmite que no controla lo que pase, pero sí puede decidir con qué entusiasmo vive   . Aprendemos de Odái que, aunque la muerte es lo único seguro, es en la actitud donde reside nuestra verdadera libertad.</p>
+<center><img src= "--------.jpeg"width="170" height="190"> </center>
+<br>
+<p> Saber que la vida tiene un final no debería asustarnos, sino motivarnos. No podemos controlar el destino, pero sí podemos elegir con qué intensidad y gratitud lo vivimos. La libertad está en nuestra actitud frente a lo inevitable. </p>
+<center><img src= "Foto 4.jpg"width="200" height="170"> </center>
+<br>
+<center>
+<a href= "https://sites.google.com/view/elmaquillajedeesme/trabajo"> Texto para dar clic </a>
+</center>
+<br>
+<ol>
+<li> No eres una princesa, eres la dueña de tu vida. </li>
+<li> El miedo no se elimina, se entiende. </li>
+<li> No estás encerrada, solo tienes miedo de salir. </li>
+<li> No necesitas un salvador, necesitas valor. </li>
+<li> El verdadero final es cuando decides comenzar. </li>
+<li> Vivir no es esperar a que alguien te escriba el cuento. </li>
+<li> El dragón no era el problema, eras tú misma. </li>
+<li> A veces, lo más valiente es decir: "no quiero esto para mí". </li>
+<li> La libertad comienza cuando dejas de obedecer al miedo. </li>
+<li> Colorín colorado... este cuento apenas empieza. </li>
+
+<hr align="left" width="1450" size="12" noshade>
+<a name="Tabla"/>
+<center>
+<table border="1">
+<caption><font face="Bell MT" size="8" color="#ba28e5"> Tabla </font></caption>
+<tr>
+<th> Parcial </th>
+<th> Nombre de la actividad </th>
+<th> Descripción </th>
+<th> Evidencia </th>
+</tr>
+<tr>
+<td> Primer Parcial </td>
+<td> <center>Elementos de una página web</center> </td>
+<td> <center>Solo vimos conceptos clave para empezar a crear nuestra página web</center> </td>
+<td> <center><img src= "EVID 1°.jpg"width="350" height="250"></center> </td>
+</tr>
+<tr>
+<td> Segundo  Parcial </td>
+<td> <center>Práctica "imagen, video"</center></td>
+<td> <center>  Tuvimos que hacer un código en HTML dónde agregamos el título de nuestro libro, un parrafo, una imágen, otro párrafo, otra imágen, un hipervínculo y un video</center> </td>
+<td> <center><img src= "EVID 2°.jpg"width="350" height="250"></center> </td>
+</tr>
+<tr>
+<td> Tercer  Parcial </td>
+<td> <center>Página en HTML</center></td>
+<td> <center>Creamos nuestra página we agregando muchas cosas que vimos en khan, también tuvimos que agregarle colores de fondo y a las letras</center> </td>
+<td> <center><img src= "EVID 3°.jpg"width="350" height="250"></center> </td>
+</tr>
+</hr>
+</table>
+
+<hr>
+<a name="Video"/>
+<center>
+<font face="Bell MT" size="8" color="#ba28e5"> Obra de teatro </font>
+</center>
+<iframe width="315" height="460">
+<center><video src="OBRA.mp4.mp4"></video></center></video>
+title="Video sobre la obra de teatro"
+frameborder="0" allow="accelerometer;
+autoplay; clipboard-write; encrypted-
+media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+<p>Este video trata sobre de la obra de teatro que se llevó acabo en la escuela el 22 de Mayo (mi opinión). </p>
+
+<hr>
+<a name="Formulario"/>
+<center>
+<font face="Bell MT" size="8" color="#ba28e5"> Formulario </font>
+</center>
+<form>
+<label for="preguntal">¿Qué te parecio el libro?</label>
+<textarea id="preguntal" name="pregunta1"></textarea>
+<br>
+<label for="pregunta2">¿Qué fue lo que más te gustódel libro?</label>
+<textarea id="pregunta2" name="pregunta2"></textarea >
+<br>
+<label for="pregunta3">¿Recomendarías el libro a otra persona?</label>
+<textarea id="pregunta3" name="pregunta3"></textarea>
+<input type="submit" value="Enviar"></form>
+
+</body>
+</html>
